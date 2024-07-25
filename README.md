@@ -1,6 +1,6 @@
-# CarZone - Advanced Car Resale Platform
+# CarZone - Advanced Car Dealership Platform
 
-Welcome to **CarZone**, a comprehensive car resale platform designed to simplify and enhance the experience of buying and selling cars. This repository hosts the full codebase for CarZone, a powerful and user-friendly website built using Django.
+Welcome to **CarZone**, a comprehensive car dealership platform designed to simplify and enhance the experience of buying and selling cars. This repository hosts the full codebase for CarZone, a powerful and user-friendly website built using Django.
 
 ___
 
