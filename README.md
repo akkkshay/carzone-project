@@ -46,11 +46,6 @@ ___
   - JavaScript: Enhances interactivity and user experience
   - Bootstrap: Responsive design framework for a consistent look and feel
 
-- **Deployment**:
-  - Docker: Containerization for easy deployment and scalability
-  - Gunicorn: WSGI HTTP Server for Unix for serving the Django application
-  - Nginx: Web server for serving static files and reverse proxy
-
 ___
 
 ## Installation and Setup
