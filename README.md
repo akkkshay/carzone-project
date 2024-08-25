@@ -83,3 +83,19 @@ ___
    ```bash
    - Open your web browser and go to http://127.0.0.1:8000/
    - Access the admin panel at http://127.0.0.1:8000/admin/
+
+___
+
+## Snapshots
+**Home Page**
+![homepage](https://github.com/user-attachments/assets/56565f06-d96a-4eaa-9c73-9d70b0c9a5bc)
+
+**Dashboard**
+![dashboard](https://github.com/user-attachments/assets/b1d4d64e-3282-430b-8882-94854908cb88)
+
+**Cars Page**
+![carspage](https://github.com/user-attachments/assets/7bf7fe20-43e4-48b6-95a0-22baae5d9022)
+
+**Dedicated Car Page**
+![carpic](https://github.com/user-attachments/assets/ea3cb0f6-3d01-41e8-bd0f-763c7364c781)
+
